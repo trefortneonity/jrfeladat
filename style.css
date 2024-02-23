@@ -135,3 +135,22 @@ section.contpage
 	text-align: center;
 	font-size: 20px;
 }
+
+header {
+	height: 200px;
+}
+
+ul a {
+	color: white;
+}
+
+aside {
+	width: 230px;
+	padding-left: 20px;
+	float: right;
+}
+
+aside a {
+	color: #de6581;
+	text-decoration: none;
+}
